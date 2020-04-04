@@ -1,1 +1,3 @@
-print("github action test")
+from robert import greet_robert
+
+greet_robert()
