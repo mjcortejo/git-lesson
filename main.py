@@ -1,5 +1,1 @@
-print('fixed hello world')
-print('this is a line from feat1')
-print('this is a line from feat2')
-print('this is a line from feat3')
-print('this is another feature for feat2')
+print("github action test")
